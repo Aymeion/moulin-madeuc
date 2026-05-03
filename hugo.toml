@@ -3,3 +3,7 @@ locale = 'en-us'
 title = 'Moulin Madeuc'
 theme = 'hugo-theme-nostyleplease'
 buildFuture = true
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'

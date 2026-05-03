@@ -6,6 +6,9 @@ buildFuture = true
 defaultContentLanguage = "fr"
 defaultContentLanguageInSubdir = false
 
+[params]
+  favicon = "favicon.png"
+
 [caches]
   [caches.images]
     dir = ':cacheDir/images'

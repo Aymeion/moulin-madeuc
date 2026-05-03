@@ -29,6 +29,11 @@
     show_more_text = "Plus..."
     show_more_url = "posts"
     section = "posts"
+  
+  [[fr.entries]]
+  title = "English"
+  url = "/en"
+  lang_switch = true
 
 [en]
   [[en.entries]]
@@ -61,3 +66,8 @@
     show_more_text = "Plus..."
     show_more_url = "posts"
     section = "posts"
+  
+  [[en.entries]]
+  title = "Français"
+  url = "/"
+  lang_switch = true

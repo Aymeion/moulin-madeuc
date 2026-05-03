@@ -5,7 +5,11 @@
     {{- range $item := $entries -}}
         <li>
             {{- with $item.url -}}
-                <a href="{{ $item.url | relLangURL }}">{{ safeHTML $item.title }}</a>
+                {{- if $item.lang_switch -}}
+                    <a href="{{ $item.url | relURL }}">{{ safeHTML $item.title }}</a>
+                {{- else -}}
+                    <a href="{{ $item.url | relLangURL }}">{{ safeHTML $item.title }}</a>
+                {{- end -}}
             {{- else -}}
                 {{ safeHTML $item.title }}
             {{- end -}}

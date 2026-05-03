@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://aymeion.github.io/moulin-madeuc/'
 locale = 'en-us'
 title = 'Moulin Madeuc'
 theme = 'hugo-theme-nostyleplease'

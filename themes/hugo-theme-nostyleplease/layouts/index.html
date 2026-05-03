@@ -6,7 +6,18 @@
         <p>{{ $.Site.Params.description }}</p>
     {{- end -}}
 </header>
+
 {{ .Content }}
-{{ partial "menu_item.html" (dict "context" . "collection" hugo.Data.menu.entries) }}
+
+{{- /* 1. Identify the current active language (e.g., "fr" or "en") */ -}}
+{{- $currentLang := .Site.Language.Lang -}}
+
+{{- /* 2. Navigate into the menu data file and extract data for that language */ -}}
+{{- $menuData := index .Site.Data.menu $currentLang -}}
+
+{{- /* 3. Pass the "entries" directly to the partial */ -}}
+{{- if $menuData -}}
+    {{ partial "menu_item.html" (dict "context" . "collection" $menuData.entries) }}
+{{- end -}}
 
 {{ end }}

@@ -1,8 +1,10 @@
 baseURL = 'https://moulin-madeuc.fr/'
-locale = 'en-us'
 title = 'Moulin Madeuc'
 theme = 'hugo-theme-nostyleplease'
 buildFuture = true
+
+defaultContentLanguage = "fr"
+defaultContentLanguageInSubdir = false
 
 [caches]
   [caches.images]
@@ -12,3 +14,14 @@ buildFuture = true
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+[languages]
+  [languages.fr]
+    languageName = "Français"
+    weight = 1
+    contentDir = "content/fr"
+
+  [languages.en]
+    languageName = "English"
+    weight = 2
+    contentDir = "content/en"

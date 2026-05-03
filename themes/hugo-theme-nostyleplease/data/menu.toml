@@ -1,0 +1,31 @@
+[[entries]]
+title = "À propos"
+url = "about"
+
+[[entries]]
+title = "Musique"
+
+  [[entries.entries]]
+  title = "Signal sur bruit : Musique pour l'économie de l'attention"
+  url = "musique/signal-sur-bruit"
+
+[[entries]]
+title = "Concerts"
+
+  [entries.post_list]
+  limit = 5
+  show_more = true
+  show_more_text = "Plus..."
+  show_more_url = "concerts"
+  section = "concerts"
+
+[[entries]]
+title = "Blog"
+
+  [entries.post_list]
+  limit = 5
+  show_more = true
+  show_more_text = "Plus..."
+  show_more_url = "posts"
+  section = "posts"
+

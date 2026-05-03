@@ -1,0 +1,46 @@
+{{- $posts := "" -}}
+
+{{- if .section -}}
+    {{- if eq .section "concerts" -}}
+        {{/* CONCERTS: Show all (past & future), sorted soonest to furthest */}}
+        {{- $posts = (where site.RegularPages "Section" .section).ByDate -}}
+    {{- else -}}
+        {{/* POSTS: Filter to only show dates Less than or Equal to (le) now */}}
+        {{- $posts = (where (where site.RegularPages "Section" .section) "Date" "le" now) -}}
+    {{- end -}}
+{{- else -}}
+    {{- if (eq .context.Kind "taxonomy") -}}
+        {{- $posts = .context.Pages -}}
+    {{- else -}}
+        {{- if (eq .context.Kind "term") -}}
+            {{- $posts = .context.Data.Pages -}}
+        {{- else -}}
+            {{/* Default fallback: Only show past posts */}}
+            {{- $posts = (where site.RegularPages "Date" "le" now) -}}
+        {{- end -}}
+    {{- end -}}
+{{- end -}}
+
+{{- $limit_exceeded:= "" -}}
+{{- if (and .limit (gt (len $posts) .limit)) -}}
+    {{- $limit_exceeded = true -}}
+{{- else -}}
+    {{- $limit_exceeded = false -}}
+{{ end }}
+
+{{- if (gt (len $posts) 0) }}
+    {{- if .limit }}
+        {{ $posts = (first .limit $posts ) }}
+    {{ end }}
+    <ul>
+        {{- range $post := $posts -}}
+        <li>
+            <span>{{- ($post.Date | time.Format site.Params.theme_config.date_format) }}</span>
+            <a href="{{ $post.Permalink | relURL }}">{{ $post.Title }}</a>
+        </li>
+        {{ end }}
+        {{- if and .show_more $limit_exceeded }}
+            <li><a href="{{ .show_more_url | relURL }}">{{ .show_more_text | default "Show more..." }}</a></li>
+        {{ end }}
+    </ul>
+{{ end }}

@@ -1,0 +1,5 @@
+baseURL = 'https://example.org/'
+locale = 'en-us'
+title = 'Moulin Madeuc'
+theme = 'hugo-theme-nostyleplease'
+buildFuture = true

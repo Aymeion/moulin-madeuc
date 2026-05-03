@@ -1,4 +1,4 @@
-baseURL = 'https://aymeion.github.io/moulin-madeuc/'
+baseURL = 'https://moulin-madeuc.fr/'
 locale = 'en-us'
 title = 'Moulin Madeuc'
 theme = 'hugo-theme-nostyleplease'
@@ -7,3 +7,8 @@ buildFuture = true
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

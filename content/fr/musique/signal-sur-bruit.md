@@ -28,9 +28,9 @@ J'ai pourtant été tenté de ne pas le sortir : en avril 2026, [d'après Deezer
 
 ---
 
-Surtout, à quoi bon le faire avec ce genre de musique ? L'ambient est un genre étrange, en lutte permanente avec notre capacité d'attention.
+Surtout, à quoi bon le faire avec ce genre de musique ? L'ambient est un genre musical étrange, en lutte permanente avec notre capacité d'attention.
 
-Produit ou consommé de manière active, il permet d'atteindre un état introspectif quasi-méditatif. "Contenu infini", le morceau autour duquel le projet s'est constitué, est le résultat d'une espèce de transe de vingt minutes - je serais incapable de le recréer si j'essayais. C'est aussi un genre qui peut être discrètement émouvant : une de mes expériences musicales les plus fortes a été de m'asseoir avec _[Lullaby](https://ifthousands.bandcamp.com/album/lullaby)_ de If Thousands un dimanche matin au bord du canal.
+Produit ou consommé de manière active, le genre permet d'atteindre un état introspectif quasi-méditatif. "Contenu infini", le morceau autour duquel le projet s'est constitué, est le résultat d'une espèce de transe de vingt minutes - je serais incapable de le recréer si j'essayais. C'est aussi un genre qui peut être discrètement émouvant : une de mes expériences musicales les plus fortes a été de m'asseoir avec _[Lullaby](https://ifthousands.bandcamp.com/album/lullaby)_ de If Thousands un dimanche matin au bord du canal.
 
 Pourtant, impossible d'ignorer que l'ambient est le genre poubelle par excellence. [Spotify remplit ses playlists "chill" de morceaux générés par IA pour éviter d'avoir à payer de vrais artistes](https://harpers.org/archive/2025/01/the-ghosts-in-the-machine-liz-pelly-spotify-musicians/) : l'ambient est le son du _slop_. Au-delà de ça, l'essor du genre est aussi le reflet d'une mentalité productiviste : c'est de la musique pour étudier, pour travailler ; un fond sonore pour remplir le silence et mieux se concentrer sur autre chose. C'est une béquille pour compenser notre incapacité croissante à nous concentrer. L'ambient est le son du _multitasking_.
 

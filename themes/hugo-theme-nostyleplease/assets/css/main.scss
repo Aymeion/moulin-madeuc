@@ -72,7 +72,10 @@ body[a="light"] { @include light-appearance; }
 
 // -------------------------------------------- //
 
-html { height: 100%; }
+html { 
+  height: 100%;
+  overflow-y: scroll;
+}
 
 body {
   font-family: monospace;

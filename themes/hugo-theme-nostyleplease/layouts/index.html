@@ -1,7 +1,12 @@
 {{ define "main" }}
 
 <header>
-    <h1>{{ $.Site.Title }}</h1>
+    {{- /* BANDCAMP STYLE BANNER (Dynamic Height) */ -}}
+    <a href="{{ .Site.Home.RelPermalink }}">
+        <img src="{{ "/images/banner.jpg" | relURL }}" alt="{{ $.Site.Title }}" style="width: 100%; height: auto; margin-bottom: 2rem; display: block;">
+    </a>
+
+    {{- /* Keep the description if it is enabled in hugo.toml */ -}}
     {{- if $.Site.Params.theme_config.show_description -}}
         <p>{{ $.Site.Params.description }}</p>
     {{- end -}}

@@ -1,7 +1,7 @@
 ---
 draft: False
 title: "Signal sur bruit : Musique pour l'économie de l'attention"
-slug: ssb
+slug: signal-sur-bruit
 date: Null
 ---
 

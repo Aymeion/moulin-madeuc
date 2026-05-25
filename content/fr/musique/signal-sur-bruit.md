@@ -55,7 +55,7 @@ Je ne peux - et ne veux - pas empêcher qui que ce soit de la mettre en fond, po
 ### Les influences de _Signal sur bruit_
 
 - _[Lullaby](https://ifthousands.bandcamp.com/album/lullaby)_, de If Thousands, mentionné plus haut
-- J'essaie toujours un peu de plagier _[Symphonic Holocaust](https://en.wikipedia.org/wiki/Symphonic_Holocaust)_ (Morte Macabre) ; ici, ça se voit surtout dans les lignes de mellotron de "Gratification différée"
+- J'essaie toujours un peu de plagier _[Symphonic Holocaust](https://en.wikipedia.org/wiki/Symphonic_Holocaust)_, de Morte Macabre ; ici, ça se voit surtout dans les lignes de mellotron de "Gratification différée"
 - Si j'étais un meilleur guitariste, je ferais sans doute des trucs qui ressemblent à The Durutti Column, en particulier _[Vini Reilly](https://thedurutticolumn.bandcamp.com/album/vini-reilly)_ ; je compense en employant Manon pour émuler "Opera 1 & 2"
 - L'achat d'un enregistreur à cassettes vient tout droit de mon obsession pour les [vieux albums des Mountain Goats](https://themountaingoats.bandcamp.com/album/all-hail-west-texas-remastered)
 - Difficile de faire de la musique ambiante sur bandes magnétiques sans créditer les _[Disintegration Loops](https://williambasinski.bandcamp.com/album/the-disintegration-loops)_ de William Basinski

@@ -5,7 +5,7 @@ slug: signal-sur-bruit
 date: Null
 ---
 
-# Tracklist :
+# Tracklist
 
 1. Premières impressions
 2. Gratification différée
@@ -14,11 +14,11 @@ date: Null
 5. Contenu infini
 6. Pourtant
 
-# Liens :
+# Liens
 
 - [Bandcamp](https://bandcamp.com/private/TE25J8KX)
 
-# À propos de l'album :
+# À propos de l'album
 
 _Signal sur bruit_ a été "assemblé" autour de septembre 2025. Chaque morceau a été construit à partir d'un élément principal - une boucle de guitare, une ligne de mellotron, un larsen - manipulé de manière analogique, avec des pédales et des cassettes, de manière à passer le moins de temps possible sur un écran.
 

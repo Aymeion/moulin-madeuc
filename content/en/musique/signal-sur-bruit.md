@@ -1,5 +1,5 @@
 ---
-draft: False
+draft: True
 title: "Signal sur bruit : Musique pour l'économie de l'attention"
 date: Null
 ---

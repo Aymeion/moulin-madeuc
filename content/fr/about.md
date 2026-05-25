@@ -4,4 +4,4 @@ title: "À propos"
 date: Null
 ---
 
-Contenu de la page en question.
+Soyons honnêtes : si vous lisez ça, on se connait dans la vraie vie.

@@ -4,4 +4,4 @@ title: "About"
 date: Null
 ---
 
-Content of the page.
+Look I'll write it someday

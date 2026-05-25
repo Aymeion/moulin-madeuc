@@ -4,9 +4,25 @@
     <body a="{{ $.Site.Params.theme_config.appearance | default "auto" }}">
         <main class="page-content" aria-label="Content">
             <div class="w">
+                
+                {{- /* GLOBAL BANDCAMP BANNER */ -}}
+                <a href="{{ .Site.Home.RelPermalink }}">
+                    <img src="{{ "/images/banner.jpg" | relURL }}" alt="{{ $.Site.Title }}" style="width: 100%; height: auto; margin-bottom: 2rem; display: block;">
+                </a>
+
+                <div class="post-meta">
+                    {{- /* Back link will only show if it's included in the specific page layout */ -}}
+                </div>
+                
                 {{- block "main" . }}{{- end }}
-                {{ partial "footer.html" }}
+                
             </div>
         </main>
     </body>
+    {{- if .Params.custom_js -}}
+        {{- range .Params.custom_js -}}
+            {{ $js := resources.Get (print "js/" . ".js") }}
+            <script type="text/javascript" src="{{ $js.RelPermalink }}"></script>
+        {{- end -}}
+    {{- end -}}
 </html>

@@ -59,7 +59,7 @@ Je ne peux - et ne veux - pas empêcher qui que ce soit de la mettre en fond, po
 ### Music that influenced _Signal to Noise_
 
 - _[Lullaby](https://ifthousands.bandcamp.com/album/lullaby)_, by If Thousands, mentioned above
-- I'm always, in some way, trying to plagiarize _[Symphonic Holocaust](https://en.wikipedia.org/wiki/Symphonic_Holocaust)_, by Morte Macabre; here, it's mostly visible in the mellotron lines of track 2, "Delayed Gratification"
+- I'm always, in some way, trying to plagiarize _[Symphonic Holocaust](https://en.wikipedia.org/wiki/Symphonic_Holocaust)_ by Morte Macabre; here, it's mostly visible in the mellotron lines of track 2, "Delayed Gratification"
 - If I were a better guitar player, I'd probably be doing stuff that sounds like The Durutti Column, especially _[Vini Reilly](https://thedurutticolumn.bandcamp.com/album/vini-reilly)_; I make up for it by employing Manon to emulate the tracks "Opera 1 & 2"
 - I bought a cassette recorder because of my obsession for [boombox-era Mountain Goats](https://themountaingoats.bandcamp.com/album/all-hail-west-texas-remastered)
 - You can't make ambient music with magnetic tapes without paying tribute to William Basinski's _[Disintegration Loops](https://williambasinski.bandcamp.com/album/the-disintegration-loops)_

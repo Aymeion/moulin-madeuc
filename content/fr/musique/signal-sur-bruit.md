@@ -32,7 +32,7 @@ J'ai pourtant été tenté de ne pas le sortir : en avril 2026, [d'après Deezer
 
 ---
 
-Surtout, à quoi bon le faire avec ce genre de musique ? L'ambient est un genre musical étrange, en lutte permanente avec notre capacité d'attention.
+Surtout, à quoi bon le faire avec ce genre de musique ? L'ambient est un genre musical étrange : il est en lutte permanente avec notre capacité d'attention.
 
 Produit ou consommé de manière active, le genre permet d'atteindre un état introspectif quasi-méditatif. "Contenu infini", le morceau autour duquel le projet s'est constitué, est le résultat d'une espèce de transe de vingt minutes - je serais incapable de le recréer si j'essayais. C'est aussi un genre qui peut être discrètement émouvant : une de mes expériences musicales les plus fortes a été de m'asseoir avec _[Lullaby](https://ifthousands.bandcamp.com/album/lullaby)_ de If Thousands un dimanche matin au bord du canal.
 
@@ -46,7 +46,7 @@ Le texte parle de la transition de l'ère analogique à l'ère digitale. Il éta
 
 _"Quand nous écoutons le bruit, nous écoutons l'espace autour de nous et la distance entre nous. Nous écoutons sous la surface. Nous écoutons chacun les limites de nos perceptions individuelles, et nous écoutons ensemble dans un moment partagé."_
 
-Dans la musique analogique, le bruit est porteur d'information : on entend des musiciens enregistrer en temps réel, limités par le coût des bandes magnétiques ; on entend leurs erreurs, on entend la pièce, l'équipement, parfois des mouvements ou des conversations, on entend le support physique sur lequel la musique est gravée... Le bruit porte un contexte, un environnement. Il porte aussi une responsabilité, puisque c'est à _nous_ de faire le tri et de le séparer du signal.
+Dans la musique analogique, le bruit est porteur d'information : on entend des musiciens enregistrer en temps réel, limités par le coût des bandes magnétiques ; on entend leurs erreurs, on entend la pièce, l'équipement, parfois des mouvements ou des conversations ; on entend le support physique sur lequel la musique est gravée, support physique qui peut même être à l'origine d'interactions humaines. Le bruit porte un contexte, un environnement. Il porte aussi une responsabilité, puisque c'est à _nous_ de faire le tri et de le séparer du signal.
 
 De même que la musique digitale a effacé ce bruit, les réseaux sociaux sélectionnent pour nous les informations qu'ils jugent pertinentes, c.-à-d. celles qui nous feront le plus réagir. Ils filtrent à notre place le "bruit" relationnel et culturel, et avec eux tout ce qui sort de nos chambres d'écho et de nos fils d'actu infinis. Pour nous retenir, ils nous bombardent de _signal_, et nous découragent de lire nous-mêmes le bruit. Ce faisant, ils nous isolent et effacent la pluralité des perspectives.
 

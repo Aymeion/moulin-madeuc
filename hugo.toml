@@ -20,11 +20,11 @@ defaultContentLanguageInSubdir = false
 
 [languages]
   [languages.fr]
-    languageName = "Français"
+    label = "Français"
     weight = 1
     contentDir = "content/fr"
 
   [languages.en]
-    languageName = "English"
+    label = "English"
     weight = 2
     contentDir = "content/en"

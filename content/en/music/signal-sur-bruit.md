@@ -22,6 +22,8 @@ date: Null
 
 - [Bandcamp](https://bandcamp.com/private/TE25J8KX)
 
+---
+
 ### About the album
 
 WIP

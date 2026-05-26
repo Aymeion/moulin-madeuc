@@ -5,6 +5,8 @@ slug: signal-sur-bruit
 date: Null
 ---
 
+[_English version_](/en/music/signal-to-noise/)
+
 ### Titres
 
 1. Premières impressions

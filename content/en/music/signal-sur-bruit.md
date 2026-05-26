@@ -5,16 +5,18 @@ slug: signal-to-noise
 date: Null
 ---
 
-"Signal to Noise : Music for the Attention Economy"
+[_Version française_](/musique/signal-sur-bruit/)
+
+"Signal to Noise: Music for the Attention Economy"
 
 ### Tracklist
 
-1. Premières impressions ("First Impressions")
-2. Gratification différée ("Delayed Gratification")
-3. Chambre d'écho ("Echo Chamber")
-4. Cercle vicieux ("Vicious circle")
-5. Contenu infini ("Infinite Content")
-6. Pourtant ("Still")
+1. Premières impressions (_"First Impressions"_)
+2. Gratification différée (_"Delayed Gratification"_)
+3. Chambre d'écho (_"Echo Chamber"_)
+4. Cercle vicieux (_"Vicious circle"_)
+5. Contenu infini (_"Infinite Content"_)
+6. Pourtant (_"Still"_)
 
 ### Links
 

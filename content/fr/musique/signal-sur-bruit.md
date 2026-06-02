@@ -7,6 +7,10 @@ date: Null
 
 [_English version_](/en/music/signal-to-noise/)
 
+### Liens
+
+- [Bandcamp](https://bandcamp.com/private/TE25J8KX)
+
 ### Titres
 
 1. Premières impressions
@@ -16,9 +20,11 @@ date: Null
 5. Contenu infini
 6. Pourtant
 
-### Liens
+### Crédits
 
-- [Bandcamp](https://bandcamp.com/private/TE25J8KX)
+Aymeric Gibon : Composition, enregistrement, instruments, effets, mix
+Manon Léon : Composition (1, 4, 6), voix (1, 6), piano (4, 6), visuels
+Mastering : Mastered by Edouard 
 
 ---
 

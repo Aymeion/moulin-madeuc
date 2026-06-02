@@ -9,6 +9,10 @@ date: Null
 
 Original title: "Signal sur bruit : Musique pour l'économie de l'attention"
 
+### Links
+
+- [Bandcamp](https://bandcamp.com/private/TE25J8KX)
+
 ### Tracklist
 
 1. First Impressions (_"Premières impressions"_)
@@ -18,9 +22,11 @@ Original title: "Signal sur bruit : Musique pour l'économie de l'attention"
 5. Infinite Content (_"Contenu infini"_)
 6. Still (_"Pourtant"_)
 
-### Links
+### Credits
 
-- [Bandcamp](https://bandcamp.com/private/TE25J8KX)
+Aymeric Gibon : Composition, recording, instruments, effects, mix
+Manon Léon : Composition (1, 4, 6), vocals (1, 6), piano (4, 6), visuals
+Mastering : Mastered by Edouard 
 
 ---
 
